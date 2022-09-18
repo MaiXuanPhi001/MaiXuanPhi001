@@ -1,6 +1,6 @@
 <!-- Trungquandev -->
 <a href="#" target="_blank">
-  <img src="svg/trungquandev.svg" width="1200" alt="trungquandev-official" />
+  <img src="svg/xuanphidev.svg" width="1200" alt="xuanphidev" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
@@ -86,8 +86,6 @@
 </div>
 
 <br>
-
-<h2 align="center">📖 My MERN Stack Advanced Course 📖</h2>
 <br>
 <p>
   <a href="https://youtu.be/63opfUkPq6k" target="_blank">
@@ -111,6 +109,6 @@
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
 <a href="#" target="_blank">
-  <img src="svg/trungquandev-quotes.svg" width="846" height="150" alt="trungquandev-official" />
+  <img src="svg/xuanphidev-quotes.svg" width="846" height="150" alt="xuanphidev" />
 </a>
 
