@@ -54,6 +54,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
 &nbsp;
+<span><img src="https://camo.githubusercontent.com/f8eec1443291ff5a58473daeea0ccf30299eaf5b2bdb4f3e8ef0714efae7a691/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d416e64726f69642d3035313232413f7374796c653d666c6174266c6f676f3d616e64726f6964" alt="Firebase logo" title="Firebase" height="25" /></span>
+&nbsp;
 
 <!-- <span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
 &nbsp; -->
