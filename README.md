@@ -1,6 +1,6 @@
 <!-- Trungquandev -->
 <a href="#" target="_blank">
-  <img src="svg/xuanphidev.svg" width="1200" alt="xuanphidev" />
+  <img src="svg/original.gif" width="1200" alt="xuanphidev" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
