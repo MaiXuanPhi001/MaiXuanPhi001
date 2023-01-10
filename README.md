@@ -56,6 +56,12 @@
 &nbsp;
 <span><img src="https://camo.githubusercontent.com/f8eec1443291ff5a58473daeea0ccf30299eaf5b2bdb4f3e8ef0714efae7a691/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d416e64726f69642d3035313232413f7374796c653d666c6174266c6f676f3d616e64726f6964" alt="Firebase logo" title="Firebase" height="25" /></span>
 &nbsp;
+<span><img src="https://camo.githubusercontent.com/6d388db07a4741d7f9985c174d17ca6522f5092054b55c343a3c7d0ed9b3358a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d3035313232413f7374796c653d666c6174266c6f676f3d6a617661" alt="Firebase logo" title="Firebase" height="25" /></span>
+&nbsp;
+<span><img src="https://camo.githubusercontent.com/a5eb5567eb26624f12cfda20e311512728bab0c69d4fce4b5df9c2fe7b437ef5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4669676d612d3035313232413f7374796c653d666c6174266c6f676f3d6669676d61" alt="Firebase logo" title="Firebase" height="25" /></span>
+&nbsp;
+<span><img src="https://camo.githubusercontent.com/5937b3777b52d61f867ea43d36dbf1b03b26ebda2fcb17f5348b7dcac3542afe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742532304e61746976652d3035313232413f7374796c653d666c6174266c6f676f3d7265616374" alt="Firebase logo" title="Firebase" height="25" /></span>
+&nbsp;
 
 <!-- <span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
 &nbsp; -->
